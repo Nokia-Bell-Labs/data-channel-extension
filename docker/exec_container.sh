@@ -1,0 +1,1 @@
+docker exec -it dex_ai8x-training sh -c 'su -c "service ssh start" root && cd ~/git/DEX_code && /bin/bash'
