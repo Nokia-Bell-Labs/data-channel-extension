@@ -65,6 +65,13 @@ The codebase is forked from the [AI8X Training repository](https://github.com/an
 7. Modify the `train_all.sh` file to run specific experiments as needed. By default, it launches training for ImageNette with SimpleNet.
 
 
+### Licensing
+
+This repository is multi licensed. All the files copyrighted by Nokia are licenced with BSD-3-Clause-Clear.
+All the remainint files are licensed with Apache License 2.0 and copyrghted to Maxim Integrated Products and Analog Devices according to the copyright notices [here](https://github.com/analogdevicesinc/ai8x-training/).
+
+For more detailed liceensing information please fo to the [LICENSE](LICENSE) file. 
+
 ### Citation
 
 ```
