@@ -4,7 +4,7 @@ This is the official PyTorch Implementation of "DEX: Data Channel Extension for 
 by 
 [Taesik Gong](https://taesikgong.com/), 
 [Fahim Kawsar](https://www.fahim-kawsar.net/), and
-[Chulhong Min](https://chulhongmin.com/).
+[Chulhong Min](http://chulhongmin.com/).
 
 The codebase is forked from the [AI8X Training repository](https://github.com/analogdevicesinc/ai8x-training), the official repository for MAX78000 and MAX78002 AI accelerators, and additional implementations are added for the DEX project.
 
